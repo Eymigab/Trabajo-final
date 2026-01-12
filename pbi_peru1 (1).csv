@@ -1,0 +1,34 @@
+PN02526AQ;
+Descripci¢n;Producto bruto interno por tipo de gasto (variaciones porcentuales reales anualizadas) - PBI
+Frecuencia;QUARTERLY
+Periodo ;2018Q4 To 2025Q3
+;
+fecha;pbi
+T4.18;4.62
+T1.19;2.4
+T2.19;1.15
+T3.19;3.39
+T4.19;2.06
+T1.20;-3.57
+T2.20;-30.05
+T3.20;-8.69
+T4.20;-1.38
+T1.21;4.23
+T2.21;42.09
+T3.21;11.76
+T4.21;3.46
+T1.22;3.92
+T2.22;3.42
+T3.22;2.06
+T4.22;2.03
+T1.23;0.04
+T2.23;-0.36
+T3.23;-0.63
+T4.23;-0.43
+T1.24;1.44
+T2.24;3.81
+T3.24;4.16
+T4.24;4.47
+T1.25;4.02
+T2.25;2.61
+T3.25;3.4
